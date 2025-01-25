@@ -1,0 +1,26 @@
+.navbar {
+	display: flex;
+	height: 25%;
+	justify-content: space-between;
+	align-items: center;
+
+	padding: 5px 10px;
+	background-color: bisque;
+	border: 1px solid black;
+	border-radius: 5px;
+
+	.main-icon {
+		display: flex;
+		align-items: center;
+		padding: 5px;
+	}
+
+	.navbar-items {
+		display: flex;
+		gap: 10px;
+
+		.navbar-item {
+
+		}
+	}
+}
